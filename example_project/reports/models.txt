@@ -1,0 +1,12 @@
+Model: LogisticRegression
+Accuracy: 0.8181628872091299
+Best params: {'C': 0.223, 'penalty': 'l2', 'solver': 'liblinear'}
+---
+Model: DecisionTreeClassifier
+Accuracy: 0.831242774566474
+Best params: {'criterion': 'entropy', 'max_depth': 5, 'max_leaf_nodes': 23}
+---
+Model: XGBClassifier
+Accuracy: 0.8874329331554766
+Best params: {'max_depth': 22, 'n_estimators': 100}
+---

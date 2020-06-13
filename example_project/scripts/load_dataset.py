@@ -1,0 +1,4 @@
+df = pd.read_csv('https://storage.googleapis.com/kagglesdsdata/datasets%2F35901%2F52633%2FwinequalityN.csv?GoogleAccessId=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com&Expires=1592304691&Signature=LZ%2BfPBbs3Ad2FE1SNCVmMGl4FveUm3YJkEm4vkX6w%2F0fiK0RyxJTNr67YkRe61rGDAyHOJRIi0KE49B8SrLbhflERL3wRNc6pATzm3072QoY1o4kLh54mT%2FNum%2BjPdt%2FvHk2W%2BKJL%2FnzvoCj5h4xSA1LtddWikVVYAZS8Mj9KylPAcSVb66h96EzK%2BfyFd5HZOC4EtQ0m3OWYQqAO1ByLUfy0gfH%2BGDiaXReLtti8UXxZNyfywyGEEc6sXW8dZpLJHbZ6SqEcIr26na4CB0qTGinHhCgXOT2H42y%2Bi1uxanqY8dz%2FeGBDqlmM7DxVFE3jnsegF%2F%2FCLR9lMS7aKdjkQ%3D%3D')
+df.to_csv('../data/external/wine-quality.csv')
+
+df.head()

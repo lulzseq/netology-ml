@@ -1,0 +1,20 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 6497 entries, 0 to 6496
+Data columns (total 13 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   type                  6497 non-null   object 
+ 1   fixed acidity         6487 non-null   float64
+ 2   volatile acidity      6489 non-null   float64
+ 3   citric acid           6494 non-null   float64
+ 4   residual sugar        6495 non-null   float64
+ 5   chlorides             6495 non-null   float64
+ 6   free sulfur dioxide   6497 non-null   float64
+ 7   total sulfur dioxide  6497 non-null   float64
+ 8   density               6497 non-null   float64
+ 9   pH                    6488 non-null   float64
+ 10  sulphates             6493 non-null   float64
+ 11  alcohol               6497 non-null   float64
+ 12  quality               6497 non-null   int64  
+dtypes: float64(11), int64(1), object(1)
+memory usage: 660.0+ KB
