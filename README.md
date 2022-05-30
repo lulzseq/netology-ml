@@ -1,5 +1,7 @@
 # Программа «Машинное обучение»
 
+#### [Сертификат об окончании](https://github.com/lulzseq/netology-ml/blob/master/certificate.pdf)
+
 ## Построение моделей
 
 * Scikit-learn
