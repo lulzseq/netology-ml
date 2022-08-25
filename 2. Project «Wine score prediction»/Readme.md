@@ -14,10 +14,6 @@
 
 # Установка библиотек
 
-```sh
-$ pip install -r requirements.txt
-```
-
 * cycler==0.10.0
 * joblib==0.15.1
 * kiwisolver==1.2.0
