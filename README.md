@@ -1,46 +1,46 @@
-# Программа «Машинное обучение»
+# Machine Learning Program
 
-#### [Сертификат об окончании](https://github.com/lulzseq/netology-ml/blob/master/certificate.pdf)
+#### [Certificate](https://github.com/lulzseq/netology-ml/blob/master/certificate.pdf)
 
-## Построение моделей
+## Model building
 
 * Scikit-learn
-* Алгоритмы классификации: линейные методы, логистическая регрессия и SVM
-* Алгоритмы классификации: деревья решений
-* Алгоритмы регрессии: линейная и полиноминальная
-* Алгоритмы кластеризации
-* Ансамблирование
-* Оценка точности модели, переобучение, регуляризация
-* Улучшение качества модели
-* Организация проекта, составление отчётов по исследованиям
+* Classification algorithms: linear methods, logistic regression and SVM
+* Classification algorithms: decision trees
+* Regression algorithms: linear and polynomial
+* Clustering algorithms
+* Ensembling
+* Model accuracy estimation, retraining, regularization
+* Improving model quality
+* Project organization, research report writing
 
-## Рекомендательные системы
+## Recommendation systems
 
-* Content-based рекомендации
+* Content-based recommendations
 * Collaborative Filtering
-* Неперсонализированные рекомендательные системы
-* Гибридные алгоритмы
+* Non-personalized recommender systems
+* Hybrid algorithms
 
-## Компьютерное зрение
+## Computer vision
 
-* Поиск по картинкам
-* Сегментация изображений, детекция объектов
-* Применение сверхточных нейронных сетей для задач сегментации и детекции
-* Применение рекуррентных сетей в задачах обработки изображений
-* Генеративные конкурирующие сети (GAN)
+* Image search
+* Image segmentation, object detection
+* Application of super-accurate neural networks for segmentation and detection tasks
+* Application of recurrent networks in image processing tasks
+* Generative Adversarial Networks (GAN)
 
-## Обработка естественного языка (NLP)
+## Natural Language Processing (NLP)
 
-* Морфологический и синтаксический анализ
-* Методы снижения размерности в векторной модели. Информационный поиск
-* Тематическое моделирование (LSA, LDA, HDP)
-* Дистрибутивная семантика (word2vec, GloVe, AdaGram)
-* Счётные языковые модели и вероятностные языковые модели. LSTM. Машинный перевод
-* Генерация текстов (Natural Language Generation)
-* Задача классификации в АОТ
+* Morphological and syntactic analysis
+* Dimensionality reduction methods in vector model. Information retrieval
+* Topic modeling (LSA, LDA, HDP)
+* Distributive semantics (word2vec, GloVe, AdaGram)
+* Counting language models and probabilistic language models. LSTM. Machine Translation
+* Text generation (Natural Language Generation)
+* Classification task in AOT
 
-## Временные ряды
+## Time series
 
-* Алгоритмы обработки временных рядов
-* Модели ARIMA и GARCH
-* Марковские случайные процессы
+* Time series processing algorithms
+* ARIMA and GARCH models
+* Markov random processes
